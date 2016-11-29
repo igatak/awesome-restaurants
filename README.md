@@ -64,6 +64,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [麦酒庵 - 大塚](http://tabelog.com/tokyo/A1323/A132302/13122240/)
 - [ ] [日本橋 墨之栄 - 日本橋](https://tabelog.com/tokyo/A1302/A130202/13117221/)
 - [ ] [酒仙 しんばし光寿 - 新橋](https://tabelog.com/tokyo/A1301/A130103/13015065/)
+- [ ] [魚の家 本店 - 新橋](https://tabelog.com/tokyo/A1301/A130103/13095757/)
 
 ### ビール
 - [ ] [クラフトヘッズ - 渋谷](http://tabelog.com/tokyo/A1306/A130601/13097775/)
