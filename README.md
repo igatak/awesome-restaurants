@@ -75,6 +75,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [おにやんま - 五反田](http://tabelog.com/tokyo/A1316/A131603/13111869/)
 - [ ] [和利道 - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13096566/)
 - [ ] [佐市 - 錦糸町](http://tabelog.com/tokyo/A1312/A131201/13147184/)
+- [ ] [根津 鷹匠 - 根津](https://tabelog.com/tokyo/A1311/A131106/13009812/)
 
 ### 肉
 - [ ] [肉山 - 吉祥寺](http://tabelog.com/tokyo/A1320/A132001/13155313/)
