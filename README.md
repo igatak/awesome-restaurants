@@ -154,6 +154,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [Rojiura Curry SAMURAI. 下北沢店 - 下北沢](http://tabelog.com/tokyo/A1318/A131802/13165636/)
 - [ ] [カレーやさん LITTLE SHOP - 神泉](http://tabelog.com/tokyo/A1303/A130301/13008321/)
 - [ ] [米とサーカス - 高田馬場](http://tabelog.com/tokyo/A1305/A130503/13124219/)
+- [ ] [はん亭 根津本店 - 根津](https://tabelog.com/tokyo/A1311/A131106/13003577/)
 
 
 ## 京都 (Kyoto)
