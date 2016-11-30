@@ -30,6 +30,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 ### とんかつ・牛カツ
 - [ ] [成蔵 - 高田馬場](http://tabelog.com/tokyo/A1305/A130503/13114695/)
 - [ ] [牛かつ おか田 - 新橋](http://tabelog.com/tokyo/A1301/A130103/13007833/)
+- [ ] [丸山吉平 - 浅草橋](https://tabelog.com/tokyo/A1311/A131103/13149421/)
 
 ### 和食
 - [ ] [徳うち山 - 東銀座](http://tabelog.com/tokyo/A1301/A130101/13129656/)
