@@ -43,6 +43,11 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [刺身BAR 河岸頭 - 築地](http://tabelog.com/tokyo/A1313/A131301/13054584/)
 - [ ] [東麻布 逢坂 - 赤羽橋](http://tabelog.com/tokyo/A1314/A131401/13044558/)
 
+### 鰻
+- [ ] [尾花 - 南千住](https://tabelog.com/tokyo/A1324/A132401/13003509/)
+- [ ] [神田 きくかわ - 神田](https://tabelog.com/tokyo/A1310/A131002/13000339/)
+- [ ] [五代目 野田岩 - 赤羽橋](https://tabelog.com/tokyo/A1314/A131401/13002789/)
+- [ ] [新宿うな鐵 - 新宿](https://tabelog.com/tokyo/A1304/A130401/13010956/)
 
 ### 日本酒
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
