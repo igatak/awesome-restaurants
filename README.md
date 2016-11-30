@@ -42,6 +42,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [遊食亭 ばり博多 - 麻布十番](http://tabelog.com/tokyo/A1307/A130702/13126065/)
 - [ ] [刺身BAR 河岸頭 - 築地](http://tabelog.com/tokyo/A1313/A131301/13054584/)
 - [ ] [東麻布 逢坂 - 赤羽橋](http://tabelog.com/tokyo/A1314/A131401/13044558/)
+- [ ] [能登美 - 水道橋](https://tabelog.com/tokyo/A1310/A131003/13090105/)
 
 
 ### 日本酒
