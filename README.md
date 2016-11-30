@@ -63,6 +63,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [赤鬼 - 三軒茶屋](http://tabelog.com/tokyo/A1317/A131706/13001382/)
 - [ ] [麦酒庵 - 大塚](http://tabelog.com/tokyo/A1323/A132302/13122240/)
 - [ ] [日本橋 墨之栄 - 日本橋](https://tabelog.com/tokyo/A1302/A130202/13117221/)
+- [ ] [酒仙 しんばし光寿 - 新橋](https://tabelog.com/tokyo/A1301/A130103/13015065/)
 
 ### ビール
 - [ ] [クラフトヘッズ - 渋谷](http://tabelog.com/tokyo/A1306/A130601/13097775/)
