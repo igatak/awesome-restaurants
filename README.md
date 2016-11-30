@@ -64,7 +64,8 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [ブルゴンディセ ヘイメル - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13044408/)
 - [ ] [BrewDog Roppongi - 六本木](http://tabelog.com/tokyo/A1307/A130701/13165318/)
 - [ ] [CRAFT HANDS 麻布十番店 - 麻布十番](http://tabelog.com/tokyo/A1307/A130702/13145348/)
-
+- [ ] [麦酒倶楽部 ポパイ  - 両国](https://tabelog.com/tokyo/A1312/A131201/13007996/)
+ 
 ### 麺
 - [ ] [四川担担麺 阿吽 - 湯島](http://tabelog.com/tokyo/A1311/A131101/13042564/)
 - [ ] [紫 くろ喜 - 浅草橋](http://tabelog.com/tokyo/A1310/A131001/13148112/)
