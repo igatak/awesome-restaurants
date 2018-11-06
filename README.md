@@ -2,7 +2,7 @@
 
 A curated list of awesome restaurants. Inspired by [sjntn/meiten](https://github.com/sjntn/meiten).
 
-If you want to contribute to this list (please do), send me a pull request to [RECOMMEND.md](https://github.com/beatinaniwa/awesome-restaurants/blob/master/RECOMMEND.md) or contact me [@beatinaniwa](https://twitter.com/beatinaniwa)
+If you want to contribute to this list (please do), send me a pull request to [RECOMMEND.md](https://github.com/igatak/awesome-restaurants/blob/master/RECOMMEND.md) or contact me [@igatak](https://twitter.com/igatak)
 
 - - -
 
@@ -56,7 +56,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [つくしのこ - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13019231/)
 - [ ] [旬水 - 麻布十番](http://tabelog.com/tokyo/A1307/A130702/13146573/)
 - [ ] [居酒屋 純ちゃん - 四谷三丁目](http://tabelog.com/tokyo/A1309/A130903/13143650/)
-- [ ] [つきじ 左光 - 新富町](http://tabelog.com/tokyo/A1313/A131302/13116935/)
+- [x] [つきじ 左光 - 新富町](http://tabelog.com/tokyo/A1313/A131302/13116935/)
 - [ ] [十番右京 - 麻布十番](http://tabelog.com/tokyo/A1307/A130702/13129939/)
 - [ ] [産直屋 たか - 神泉](http://tabelog.com/tokyo/A1303/A130301/13008327/)
 - [ ] [とときち 新宿三丁目店 - 新宿三丁目](http://tabelog.com/tokyo/A1304/A130401/13023849/)
@@ -66,15 +66,15 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [麦酒庵 - 大塚](http://tabelog.com/tokyo/A1323/A132302/13122240/)
 - [ ] [日本橋 墨之栄 - 日本橋](https://tabelog.com/tokyo/A1302/A130202/13117221/)
 - [ ] [酒仙 しんばし光寿 - 新橋](https://tabelog.com/tokyo/A1301/A130103/13015065/)
-- [ ] [魚の家 本店 - 新橋](https://tabelog.com/tokyo/A1301/A130103/13095757/)
-- [ ] [庫裏  - 銀座](https://tabelog.com/tokyo/A1301/A130101/13016562/)
+- [x] [魚の家 本店 - 新橋](https://tabelog.com/tokyo/A1301/A130103/13095757/)
+- [x] [庫裏  - 銀座](https://tabelog.com/tokyo/A1301/A130101/13016562/)
 
 ### ビール
 - [ ] [クラフトヘッズ - 渋谷](http://tabelog.com/tokyo/A1306/A130601/13097775/)
 - [ ] [ブルゴンディセ ヘイメル - 渋谷](http://tabelog.com/tokyo/A1303/A130301/13044408/)
-- [ ] [BrewDog Roppongi - 六本木](http://tabelog.com/tokyo/A1307/A130701/13165318/)
+- [x] [BrewDog Roppongi - 六本木](http://tabelog.com/tokyo/A1307/A130701/13165318/)
 - [ ] [CRAFT HANDS 麻布十番店 - 麻布十番](http://tabelog.com/tokyo/A1307/A130702/13145348/)
-- [ ] [麦酒倶楽部 ポパイ  - 両国](https://tabelog.com/tokyo/A1312/A131201/13007996/)
+- [x] [麦酒倶楽部 ポパイ  - 両国](https://tabelog.com/tokyo/A1312/A131201/13007996/)
  
 ### 麺
 - [ ] [四川担担麺 阿吽 - 湯島](http://tabelog.com/tokyo/A1311/A131101/13042564/)
@@ -116,7 +116,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [ピッツァマン オオイマチ - 大井町](http://tabelog.com/tokyo/A1315/A131501/13113311/)
 - [ ] [聖林館 - 中目黒](http://tabelog.com/tokyo/A1317/A131701/13003188/)
 - [ ] [ピッツェリア アッローロ - 北千住](http://tabelog.com/tokyo/A1324/A132402/13177980/)
-- [ ] [デビルクラフト 浜松町 ２号店 - 浜松町](http://tabelog.com/tokyo/A1314/A131401/13158858/)
+- [x] [デビルクラフト 浜松町 ２号店 - 浜松町](http://tabelog.com/tokyo/A1314/A131401/13158858/)
 - [ ] [ピッツエリア・バッジオ - 六本木](http://tabelog.com/tokyo/A1307/A130701/13005379/)
 
 ### フレンチ
