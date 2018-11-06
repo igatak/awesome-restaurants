@@ -44,6 +44,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [ ] [刺身BAR 河岸頭 - 築地](http://tabelog.com/tokyo/A1313/A131301/13054584/)
 - [ ] [東麻布 逢坂 - 赤羽橋](http://tabelog.com/tokyo/A1314/A131401/13044558/)
 - [ ] [能登美 - 水道橋](https://tabelog.com/tokyo/A1310/A131003/13090105/)
+- [ ] [こびき - 東銀座](https://tabelog.com/tokyo/A1301/A130101/13030521/)
 
 ### 鰻
 - [ ] [尾花 - 南千住](https://tabelog.com/tokyo/A1324/A132401/13003509/)
